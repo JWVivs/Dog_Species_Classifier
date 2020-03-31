@@ -2,7 +2,7 @@
 Using deep learning to classify images of various dog species.
 
 # Objective
-Build an image classifier that is capable of accurately identifying the breed of a dog. Perhaps an application could be built that would allow the user to input an image of a dog, and they would receive the breed of the dog, as well as some interesting facts regarding breed.
+Build an image classifier that is capable of accurately identifying the breed of a dog. Perhaps an application could be built that would allow the user to input an image of a dog, and they would receive the breed of the dog, as well as some interesting facts regarding the breed.
 
 This will be accomplished by using a convolutional neural net (CNN), which was trained on resnet34.
 
