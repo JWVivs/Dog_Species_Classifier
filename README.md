@@ -12,8 +12,7 @@ The model was able to predict the breed of the dog with an error rate of 0.134 (
 # Data Source/Resources Used
 The Stanford Dogs dataset was used, which features 20,580 images of 120 different dog breeds. It can be found here: http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
 
-Inspiration for the project and walkthrough came from:
-
+Inspiration for the project and walkthrough can be found here:
 https://github.com/PlayingNumbers/ball_image_classifier
 
 # Tools
