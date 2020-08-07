@@ -9,8 +9,11 @@ This will be accomplished by using a convolutional neural net (CNN), which was t
 # Results
 The model was able to predict the breed of the dog with an error rate of 0.134 (accuracy of 86.6%). Considering the time saved by using a CNN that has been trained on resnet34, the accuracy could arguably suffice for a user. However; if a lower error rate is desired, more tuning would need to be done.
 
-# Data Source
+# Data Source/Resources Used
 The Stanford Dogs dataset was used, which features 20,580 images of 120 different dog breeds. It can be found here: http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
+
+Inspiration for the project and walkthrough came from:
+https://github.com/PlayingNumbers/ball_image_classifier
 
 # Tools
 Google Colab
